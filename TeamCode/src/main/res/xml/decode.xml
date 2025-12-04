@@ -37,7 +37,7 @@
         </LynxModule>
     </LynxUsbDevice>
     <!-- OV9782 -->
-    <Webcam name="right" serialNumber="UC852"/>
+    <Webcam name="left" serialNumber="UC852"/>
     <!-- OV9281 -->
-    <Webcam name="left" serialNumber="UC762"/>
+    <Webcam name="right" serialNumber="111"/>
 </Robot>
